@@ -1,8 +1,6 @@
 # Terminal DNS changer for Linux
 ![fastest window](sc1.png)
 
-tested on debian12
-
 This program requires Python3
 
 ### Install
