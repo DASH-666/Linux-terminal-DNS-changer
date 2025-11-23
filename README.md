@@ -1,3 +1,5 @@
+i don't know about bash too much. ai helped me to make this program
+
 # Terminal DNS changer for Linux
 ![fastest window](sc1.png)
 
@@ -16,5 +18,3 @@ sudo ./uninstall.sh
 run `dns-changer` on your terminal
 
 Installation path:`/opt/My-DNS-APP` and `/usr/local/bin/dns`
-
-i don't know about bash too much. ai helped me to make this program
