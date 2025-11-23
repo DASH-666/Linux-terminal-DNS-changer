@@ -1,4 +1,4 @@
-i don't know about bash too much. ai helped me to make this program
+i don't know about python too much. ai helped me to make this program
 
 # Terminal DNS changer for Linux
 ![fastest window](sc1.png)
