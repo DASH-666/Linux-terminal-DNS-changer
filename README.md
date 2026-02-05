@@ -7,7 +7,9 @@ This program requires Python3
 
 ### Install
 ```
-cd terminal-dns-changer-1.0/ 
+git clone https://github.com/DASH-666/Linux-terminal-DNS-changer.git
+cd Linux-terminal-DNS-changer
+chmod +x install.sh
 sudo ./install.sh
 ```
 ### Uninstall
